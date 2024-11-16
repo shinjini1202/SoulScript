@@ -43,21 +43,20 @@ Matplotlib: For plotting the mood graph.
 
 
 How to Run 🚀
+
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/shinjini1202/SoulScript.git
+
+
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
+
 Run the app:
 
-bash
-Copy code
 streamlit run app.py
+
 Visit the app in your browser: http://localhost:8501
 
 Contributing 🤝
