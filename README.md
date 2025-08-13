@@ -2,6 +2,8 @@
 
 Welcome to SoulScript! 🌟 This web app is designed to help you track your daily moods, analyze sentiment, and get personalized feedback based on your journal entries. It’s a place to express yourself and reflect on your emotions, all while receiving insightful recommendations to maintain a positive mindset. 🌈
 
+Publicly Accessible at- https://bn9rcnxss6egequyrbmonu.streamlit.app/ 
+
 Features ✨
 
 Journal Entry 📖: Write your daily thoughts freely or choose a prompt to get started.
@@ -40,24 +42,6 @@ TextBlob: For sentiment analysis of journal entries.
 Pandas: For managing and storing user data (entries and mood scores).
 
 Matplotlib: For plotting the mood graph.
-
-
-How to Run 🚀
-
-Clone the repository:
-
-git clone https://github.com/shinjini1202/SoulScript.git
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the app:
-
-streamlit run app.py
-
-Visit the app in your browser: http://localhost:8501
 
 Contributing 🤝
 We welcome contributions! If you have any ideas to improve the app, feel free to open a pull request or create an issue. 🌱
