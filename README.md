@@ -75,7 +75,4 @@ Email: shinjininag577@gmail.com
 
 GitHub: @shinjini1202
 
-Screenshots 📸
-
-
 Thank you for checking out SoulScript! 🌸 Start journaling today and track your emotional well-being, one entry at a time. 💙
